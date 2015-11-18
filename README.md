@@ -7,3 +7,4 @@ This repository is for showing how Git and GitHub work. Adding a line for rebase
 Sample website with plenty of files for demos
 
 copyright - 2015 gittraining
+adding another change after rebase
