@@ -8,3 +8,4 @@ Sample website with plenty of files for demos
 
 copyright - 2015 gittraining
 adding another change after rebase
+read me stash change
